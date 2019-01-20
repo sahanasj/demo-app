@@ -1,0 +1,4 @@
+*.pyc
+flaskr.db
+.gitreview
+.env
